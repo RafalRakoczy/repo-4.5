@@ -1,2 +1,4 @@
 autoprefixer-cli -o main.stylesheet.css stylesheet.css
 html-validate "*.html"
+
+Kamil, zamknąłem okno gita, gdy on coś rzeźbił (nie umiałem go opuścić) To jest to okno, gdzie należy wpisać :qw, żeby wyjść. Repo się zepsuło. Założyłem nowe. Już wiem , czego nie robić. Człowiek uczy się na błędach. Na szczęście ten błąd oprócz małego nerwa niewiele kosztował. 
